@@ -1,4 +1,4 @@
-name = "gmod-express"
+name = "express-service"
 main = "./index.js"
 workers_dev = true
 
