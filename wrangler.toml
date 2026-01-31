@@ -1,4 +1,5 @@
-name = "gmod-express"
+# wrangler.toml
+name = 'express-service'
 main = "./index.js"
 workers_dev = true
 
